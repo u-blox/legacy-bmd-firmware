@@ -1,4 +1,4 @@
-# legacy-bmd-bootloader-tools
+# legacy-bmd-firmware
 
 ## Disclaimer
 Copyright (C) u-blox 
